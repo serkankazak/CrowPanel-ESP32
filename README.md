@@ -1,5 +1,7 @@
 # CrowPanel-ESP32
 
+#### Elecrow 7.0 Inch ESP32 HMI Screen 800*480 SPI TFT LCD
+
 esp32@2.0.15
 ```
 https://espressif.github.io/arduino-esp32/package_esp32_index.json
