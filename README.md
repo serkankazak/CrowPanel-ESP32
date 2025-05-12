@@ -17,6 +17,8 @@ LovyanGFX@1.1.12
 // #define CrowPanel_43
 ```
 
+<img src="crow.jpg" width="600">
+
 https://github.com/lovyan03/LovyanGFX?tab=readme-ov-file
 
 https://lovyangfx.readthedocs.io/en/latest/02_using.html
